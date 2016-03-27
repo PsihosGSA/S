@@ -1,8 +1,8 @@
-package oracle.academy.dao;
+package ua.org.oa.gavrishs.dao;
 
 import java.util.List;
 
-import oracle.academy.model.User;
+import ua.org.oa.gavrishs.model.User;
 
 public interface UserDao {
 
